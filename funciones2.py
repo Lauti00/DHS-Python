@@ -17,3 +17,4 @@ print(x)
 print(y)
 
 #printf("%p  suma() /n") imprime la direccion de memoria de la funcion
+#LAS TUPLAS SON INMUTABLES NO PUEDO MODIFICAR LOS VALORES EJ X= (4,5)
